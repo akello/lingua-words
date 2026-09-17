@@ -1,1 +1,16 @@
-
+bear,медведь
+butterfly,бабочка
+cat,кошка
+crocodile,крокодил
+dog,собака
+elephant,слон
+fish,рыба
+giraffe,жираф
+hippo,бегемот
+monkey,обезьяна
+ox,бык
+parrot,попугай
+rabbit,кролик
+snake,змея
+tiger,тигр
+tortoise,черепаха
