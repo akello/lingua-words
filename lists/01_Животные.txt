@@ -14,3 +14,4 @@ rabbit,кролик
 snake,змея
 tiger,тигр
 tortoise,черепаха
+hedgehog, ежик
