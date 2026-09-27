@@ -1,0 +1,9 @@
+stop — go
+big — small
+fast — slow
+high — low
+hot — cold
+hello — goodbye
+always — never
+smile — frown
+first — last
