@@ -11,3 +11,5 @@ always — never
 smile — frown
 first — last
 young - old
+up - down
+quickly - slowly
