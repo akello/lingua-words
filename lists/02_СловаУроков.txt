@@ -60,3 +60,12 @@ slowly - медленно
 too - слишком
 up - верх
 down - вниз
+fly - летать
+follow - следовать
+help - помогать
+read - читать
+speak - говорить
+swim - плавать
+write - писать
+left - левый
+right - правый
