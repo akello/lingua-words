@@ -49,3 +49,14 @@ always - всегда
 never - никогда
 today - сегодня
 too - слишком
+finish - финиш
+start - старт
+run up - подниматься
+run down - спускаться
+ready - готовый
+here - здесь
+quickly - быстро
+slowly - медленно
+too - слишком
+up - верх
+down - вниз
