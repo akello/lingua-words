@@ -1,0 +1,46 @@
+# Linguaphone Children's English, Topic Book 1-2 — 44 глагола (Weeks 1-8)
+# Одна строка — одна пара: английское — русское
+to be — быть
+to brush — причёсывать волосы
+to catch — ловить, поймать
+to cross — переходить улицу
+to fly — летать
+to follow — следовать, идти за
+to frown — хмуриться
+to go — идти
+to go away — уходить
+to go down — спускаться
+to go forward — идти вперёд
+to go backward — идти назад
+to go up — подниматься
+to have — иметь
+to help — помогать
+to hold on to — держаться за что-либо
+to jump — прыгать
+to know — знать
+to like — любить
+to look at — смотреть, глядеть
+to look out — быть настороже
+to pull — тянуть, тащить
+to pull out — вытаскивать
+to push — толкать
+to press — жать, нажимать
+to read — читать
+to run — бегать
+to run across — перебегать
+to run down — бежать вниз
+to run up — взбегать наверх
+to run into — забегать в
+to rush — мчаться
+to run past — пробегать мимо
+to see — видеть
+to smile — улыбаться
+to speak — говорить
+to stop — останавливаться
+to swim — плавать
+to thank — благодарить
+to wait — ждать
+to walk — ходить пешком
+to want — хотеть
+to win — одержать победу
+to write — писать

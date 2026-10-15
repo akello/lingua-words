@@ -1,0 +1,19 @@
+# Linguaphone Children's English, Topic Book 1-2 — 17 наречий (Weeks 1-8)
+# Одна строка — одна пара: английское — русское
+again — снова, опять
+always — всегда
+certainly — конечно, непременно
+here — здесь, сюда
+just — совсем, прямо, просто
+nearly — почти, приблизительно
+never — никогда
+now — теперь, сейчас
+quickly — быстро
+really — действительно
+slowly — медленно
+so — итак, таким образом
+there — там, туда
+today — сегодня
+too — слишком
+upside down — вниз головой
+very — очень

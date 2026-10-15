@@ -1,0 +1,16 @@
+# тип: синонимы
+# Синонимы: пары близких по смыслу слов.
+# Только слова из Linguaphone Children's English, Topic Book 1-2 (Weeks 1-8).
+# У глаголов частица to убрана, чтобы на карточке было одно слово.
+car — machine
+end — finish
+run — rush
+walk — go
+push — press
+see — look at
+lovely — nice
+incredible — fantastic
+moment — minute
+all — everyone
+certainly — really
+quickly — fast

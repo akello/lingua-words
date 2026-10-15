@@ -1,0 +1,69 @@
+# Linguaphone Children's English, Topic Book 1-2 — 67 существительных (Weeks 1-8)
+# Одна строка — одна пара: английское — русское
+an alphabet — алфавит
+a banana — банан
+a bear — медведь
+a bird — птица
+a biscuit — печенье
+bread — хлеб
+a butterfly — бабочка
+a button — кнопка, пуговица
+a cake — пирожное
+a camel — верблюд
+a car — машина
+a cat — кошка
+cheese — сыр
+chocolate — шоколад
+a crocodile — крокодил
+a cyclist — велосипедист
+a dog — собака
+a dummy — соска
+an elephant — слон
+end — конец
+a finish — финиш
+a fish — рыба
+food — еда
+fruit — фрукты
+a giraffe — жираф
+a handle — ручка, рукоятка
+a hedgehog — ёжик
+a hill — холм
+a hippo — гиппопотам
+an ice-cream — мороженое
+a jacket — куртка, пиджак
+juice — сок
+a machine — машина
+meat — мясо
+milk — молоко
+a minute — минута
+a moment — момент, мгновение
+a monkey — обезьяна
+a name — имя
+number — номер, количество
+an orange — апельсин
+an ox — бык
+a parrot — попугай
+a part — часть
+a photo — фотография
+a policeman — полицейский
+a rabbit — кролик
+a race — гонка
+rice — рис
+a river — река
+a road — дорога
+a rope — верёвка
+a sandwich — бутерброд
+a snake — змея
+a snail — улитка
+a splash — всплеск
+a start — старт
+a swan — лебедь
+sweets — конфеты
+a taxi — такси
+a tiger — тигр
+a tomato — помидор
+a tortoise — черепаха
+a towel — полотенце
+a town — город
+a truck — грузовик
+a winner — победитель

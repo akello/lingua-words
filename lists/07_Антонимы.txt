@@ -1,0 +1,21 @@
+# тип: антонимы
+# Антонимы: пары противоположных слов.
+# Только слова из Linguaphone Children's English, Topic Book 1-2 (Weeks 1-8).
+# У глаголов частица to убрана, чтобы на карточке было одно слово.
+stop — go
+big — small
+fast — slow
+high — low
+hot — cold
+long — short
+left — right
+old — young
+push — pull
+go up — go down
+go forward — go backward
+start — finish
+run — walk
+quickly — slowly
+here — there
+smile — frown
+always — never
